@@ -1,7 +1,7 @@
 # Usage of library pycoingecko
 ___
 We will filter out top N cryptocurrencies by market capitalization using library pycoingecko
-####Installation
+#### Installation
 PyPI
 ```
 pip install pycoingecko
